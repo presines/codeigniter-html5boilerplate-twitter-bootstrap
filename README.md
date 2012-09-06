@@ -1,16 +1,17 @@
-### A CodeIgniter skeleton application based on twitter bootstrap 2 and html5boilerplate 3.
+### A CodeIgniter skeleton application based on twitter bootstrap 2.1.1 and html5boilerplate 4.
 ---------------------------------------------------
-	VERSION 1.1.0
+	VERSION 1.2
 
-* Codeigniter 2.1.0
-* bootstrap 2.0.2
-* html5boilerplate 3.0.2
+* Codeigniter 2.1.2
+* bootstrap 2.1.1
+* html5boilerplate 4.0.0
 * unique style css contains all bootstrap css (responsive and basic), ang global css for custom styles.
 * unique plugin js contains all bootstrap plugins.
 * view rendering handled by a smart MY_Controller.
-* jQuery 1.7.1
-* underscore.js 1.3.1
+* jQuery 1.8.1
+* underscore.js 1.3.3
 * nav_helper
+* Modernizr 2.6.2
 * .htacces tip for remove index.php
 * basejs view always include in page. (usefull to access via js some server side information e.g. base_url())
 
@@ -29,6 +30,3 @@ is made for my basic page template.
 You need to customize it in order to match your needs.
 Feel free to improve it.
 Send a pull request, or contact me.
-
-* http://arny.me
-* a.arnodo@gmail.com

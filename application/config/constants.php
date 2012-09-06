@@ -43,10 +43,10 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 |
 */
 
-define('IMAGES','resources/images/');
-define('JS','resources/js/');
-define('CSS','resources/css/');
-define('UPLOAD','resources/upload/');
+define('IMAGES','assets/images/');
+define('JS','assets/js/');
+define('CSS','assets/css/');
+define('UPLOAD','assets/upload/');
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
