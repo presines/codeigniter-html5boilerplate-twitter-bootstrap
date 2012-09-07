@@ -8,7 +8,9 @@ Update libraries:
 * Modernizr 2.6.2
 * jQuery 1.8.1
 * underscore.js 1.3.3
----------------------------------------------------
+
+Sources
+-------------------
 * Framework Codeigniter
 * Twitter bootstrap
 * html5boilerplate
