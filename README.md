@@ -32,3 +32,22 @@ USAGE
 3. take a look to home controller and template view files to understand how does rendering works.
 4. create your template: i've set up an header, footer, nav, and main for example purpose. Skeleton.php contains the scaffolding page.
 5. pass your data to the view using in controller $this->data["my_var"] = "value";
+
+Updated
+------------------- 
+####Ulises Vázquez E. - espinozaulises
+
+* [@ulisesoficial](https://twitter.com/ulisesoficial)
+* [http://uvazquez.net](http://uvazquez.net)
+* <mailto:ulises@uvazquez.net>
+
+Author
+------------------- 
+
+####Alessandro Arnodo
+
+* [@vesparny](https://twitter.com/vesparny)
+
+* [http://arnodo.net](http://arnodo.net)
+
+* <mailto:alessandro@arnodo.net>

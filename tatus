@@ -1,0 +1,163 @@
+[33mcommit d3eb70630742145ca96e8692a46bb2caa911fb08[m
+Author: Ulises <ulises@ulises-pc.(none)>
+Date:   Thu Sep 6 21:47:18 2012 -0500
+
+    -Adding Returning views as data in MY_Controller. -Update skeleton. -Rename libs.
+
+[33mcommit 8e9e11c99f5420f3e85ccbc580db89949bd2f724[m
+Author: Ulises <ulises@ulises-pc.(none)>
+Date:   Thu Sep 6 21:02:01 2012 -0500
+
+    Update README.md
+
+[33mcommit 2dd9471e5fe55ca0a377b44ae9269cc0917f0c3d[m
+Author: Ulises <ulises@ulises-pc.(none)>
+Date:   Thu Sep 6 20:57:35 2012 -0500
+
+    Update LESS files Bootstrap to 2.1.1. Replace Sprites for Font Awesome in Bootstrap.
+
+[33mcommit 246f1575bebec2d6f465bab53a89b6e5bc7a8edf[m
+Author: Ulises <ulises@ulises-pc.(none)>
+Date:   Thu Sep 6 18:30:21 2012 -0500
+
+    Deleting and rename files & directories.Updating jQuery, Modernizr, Boilerplate, Bootstrap, Modernizr, Underscore & Codeigniter.
+
+[33mcommit 15bf0613b8f1803ceb5a42d7ce342942db8c9216[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Jun 14 11:01:04 2012 +0300
+
+    fixed description meta tag in skeleton.php
+
+[33mcommit 712511c3ee87137ce7219342150b3336576c90dd[m
+Merge: 77c96cc abfce17
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 15 17:14:01 2012 +0100
+
+    Merge branch 'master' of github.com:vesparny/codeigniter-html5boilerplate-twitter-bootstrap
+
+[33mcommit 77c96ccbce85ad0d817ccb51a7911de3d371849c[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 15 17:13:48 2012 +0100
+
+    upgrade to bootstrap 2.0.2
+
+[33mcommit 1ba84c1156ce49459f6cdfa61bec438c44b7e64e[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 15 17:12:15 2012 +0100
+
+    upgrade to bootstrap 2.0.2
+
+[33mcommit abfce17c4e2f45419f25fee3e1c58515c1a2d92a[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Wed Mar 14 10:14:38 2012 +0100
+
+    readme
+
+[33mcommit 1176d38571ecac281c9527def3a41cb69c58ab99[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Mon Mar 12 23:52:32 2012 +0100
+
+    improve docs
+
+[33mcommit 496b2b581a6077f2d1e4452054aac7f8649d831f[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Mon Mar 12 23:43:19 2012 +0100
+
+    improve docs
+
+[33mcommit d657f83fbf8da7e684d1eb0048afe414c27dec73[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Mon Mar 12 23:36:24 2012 +0100
+
+    improve docs
+
+[33mcommit 8f2b4ad3d1760ab2ebc5f5642886bb3b33e5405c[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Mon Mar 12 23:35:41 2012 +0100
+
+    improve docs
+
+[33mcommit 71cab9f66d227dfd436e45bb4463b1048b86943a[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Mon Mar 12 23:32:55 2012 +0100
+
+    improve docs
+
+[33mcommit 63347e71c6dfc6d865d059368b3a36cc099fd442[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Mon Mar 12 23:28:37 2012 +0100
+
+    improve docs
+
+[33mcommit 1fdc1d6a203627fa8e70102fe61cfeb12c3035db[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Sun Mar 11 23:33:40 2012 +0100
+
+    clean lobster font
+
+[33mcommit d7bce813d130100a6ec3e843ba57112456ef475f[m
+Merge: 48e93e9 da54ee0
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Sun Mar 11 15:13:34 2012 +0100
+
+    Merge branch 'master' of github.com:vesparny/codeigniter-html5boilerplate-twitter-bootstrap
+
+[33mcommit 48e93e9e0addb4e81444670e39804dde110ac687[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Sun Mar 11 15:13:11 2012 +0100
+
+    basic layout
+
+[33mcommit da54ee0ec4d2acb4f77e0dd42076e03c80472889[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 16:52:53 2012 +0100
+
+    fix config
+
+[33mcommit 5c82090123be20b38b3be541c34c1156287de51b[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 16:49:56 2012 +0100
+
+    clean code
+
+[33mcommit 47a155cbcd8e05d07eb9fa55e9de1a8cd84a6b88[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 16:01:15 2012 +0100
+
+    fix readme
+
+[33mcommit e7db91409f42748e20498fdc7fb10335269edb2f[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 15:59:45 2012 +0100
+
+    fix readme
+
+[33mcommit 07d42d67a3563ab4dc92fcce9d49853b9afbf84b[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 15:57:09 2012 +0100
+
+    fix readme
+
+[33mcommit 3145c2a712360e57bda5f14f1d92bb49732411c4[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 15:53:07 2012 +0100
+
+    css
+
+[33mcommit b797fe022e294138628e222b33d02332147c0ace[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 15:16:51 2012 +0100
+
+    ignore
+
+[33mcommit 930d8e2f3021976a6c92c580c2138100f5c0ebac[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 15:11:56 2012 +0100
+
+    first commit
+
+[33mcommit e06ddc9ede01a59444d2c3f1236173ae35970200[m
+Author: Alessandro Arnodo <a.arnodo@gmail.com>
+Date:   Thu Mar 8 15:11:30 2012 +0100
+
+    first commit
